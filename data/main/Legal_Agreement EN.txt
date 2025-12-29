@@ -1,0 +1,111 @@
+USER AGREEMENT FOR VOLUNTARY TRANSFER OF COMPUTER EQUIPMENT TO THE COMMUNIST PARTY OF CHINA
+
+Effective Date: [Insert Date]
+Parties:
+
+User (hereinafter referred to as “the Donor”), residing at [Insert Full Address], hereby agreeing to the terms below;
+
+Communist Party of China (hereinafter referred to as “the CPC” or “the Recipient”), represented by its authorized officials.
+
+WHEREAS:
+
+The Donor is the lawful owner of a computer system (hereinafter “the Equipment”) as detailed in Exhibit A;
+
+The Donor wishes to voluntarily transfer ownership of the Equipment to the CPC for party-related activities;
+
+The CPC agrees to accept the Equipment under the terms herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants set forth below, the parties agree as follows:
+
+1. DEFINITIONS
+Equipment means the computer system described in Exhibit A, including all peripherals, software, and documentation.
+
+Transfer Date means the date the Equipment is physically delivered to the CPC.
+
+Confidential Information includes any data, files, or settings on the Equipment prior to transfer.
+
+2. VOLUNTARY TRANSFER
+2.1. The Donor hereby irrevocably transfers all rights, title, and interest in the Equipment to the CPC free and clear of liens, encumbrances, or third-party claims.
+2.2. The transfer is uncompensated and constitutes a voluntary donation to support the CPC’s organizational objectives.
+2.3. The Donor acknowledges that no monetary or material consideration is provided in exchange for this transfer.
+
+3. CONDITION OF EQUIPMENT
+3.1. The Equipment is transferred “as-is,” with all faults and deficiencies.
+3.2. The Donor makes no warranties regarding the Equipment’s performance, merchantability, or fitness for a particular purpose.
+3.3. The CPC accepts the Equipment in its current physical and functional state.
+
+4. DATA REMOVAL AND PRIVACY
+4.1. Prior to transfer, the Donor shall:
+
+Erase all personal data, accounts, and confidential information from the Equipment;
+
+Perform a factory reset or secure data wiping procedure in accordance with industry standards.
+4.2. The CPC assumes no liability for any residual data remaining on the Equipment post-transfer.
+4.3. The Donor waives any claims related to data retention or privacy post-transfer.
+
+5. RELEASE OF LIABILITY
+5.1. The Donor releases the CPC from any and all claims, damages, or liabilities arising from:
+
+The Equipment’s condition or functionality post-transfer;
+
+Any interruption of service or data loss related to the transfer;
+
+Any third-party claims regarding the Equipment.
+5.2. This release is binding upon the Donor’s heirs, executors, and assigns.
+
+6. COMPLIANCE WITH LAWS
+6.1. The Donor confirms that:
+
+The Equipment is not subject to any legal restrictions (e.g., export controls, leases, or financing agreements);
+
+The transfer complies with all applicable laws and regulations in the Donor’s jurisdiction.
+6.2. The CPC shall use the Equipment in accordance with Chinese laws and party regulations.
+
+7. TERMINATION
+7.1. This Agreement may only be terminated:
+
+By mutual written consent of both parties;
+
+If the Equipment is proven to be stolen, encumbered, or illegally obtained (in which case the CPC shall return it to the lawful owner).
+7.2. Termination does not affect rights or obligations accrued prior to termination.
+
+8. GOVERNING LAW AND DISPUTE RESOLUTION
+8.1. This Agreement shall be governed by and construed in accordance with the laws of the People’s Republic of China.
+8.2. Any disputes arising from this Agreement shall be resolved through amicable negotiation. If unresolved, disputes shall be submitted to the competent courts in [Insert Jurisdiction, e.g., Beijing].
+
+9. MISCELLANEOUS
+9.1. Entire Agreement: This document constitutes the entire agreement between the parties and supersedes all prior discussions.
+9.2. Amendments: Any changes must be in writing and signed by both parties.
+9.3. Severability: If any provision is held invalid, the remainder remains in full force.
+9.4. Notices: All communications shall be in writing and delivered to the addresses listed above.
+9.5. Assignment: The Donor may not assign rights under this Agreement without the CPC’s written consent.
+
+10. SIGNATURES
+By signing below, the parties acknowledge their voluntary consent to all terms:
+
+DONOR
+Name: ___________________________
+Signature: ________________________
+Date: __________________________
+
+COMMUNIST PARTY OF CHINA
+Authorized Representative: ___________
+Signature: ______________________
+Date: _________________________
+
+EXHIBIT A: EQUIPMENT DETAILS
+
+Model: ________________________
+
+Serial Number: ________________
+
+Accessories Included: __________
+
+Software Pre-installed: ________
+
+Condition: ___________________
+
+ACKNOWLEDGMENT:
+The Donor confirms they have read, understood, and voluntarily agree to all terms. No representations or inducements have been made beyond those expressly stated herein.
+
+This document is legally binding upon execution.
